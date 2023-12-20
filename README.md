@@ -4,3 +4,6 @@
 
 ## Run the seeder:
  - php artisan db:seed --class=PostSeeder
+
+## API Documentation
+- https://documenter.getpostman.com/view/28072428/2s9Ykq6KnL
