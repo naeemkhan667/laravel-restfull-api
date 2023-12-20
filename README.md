@@ -7,3 +7,6 @@
 
 ## API Documentation
 - https://documenter.getpostman.com/view/28072428/2s9Ykq6KnL
+
+## Running test cases for API
+    - php artisan test --testsuite=Feature
